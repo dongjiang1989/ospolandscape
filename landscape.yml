@@ -273,6 +273,11 @@ landscape:
             logo: infosys-logo.svg
             crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
+            name: iFlytek (Member)
+            homepage_url: https://www.iflytek.com/
+            logo: iflytek.png
+            crunchbase: https://www.crunchbase.com/organization/anhui-ustc-iflytek-science-and-technology-co-ltd
+          - item:
             name: Innovation Platform Agency Japan (Member)
             homepage_url: https://www.ipa.go.jp/en/
             logo: ipa.svg
@@ -892,6 +897,11 @@ landscape:
             homepage_url: https://www.infosys.com
             logo: infosys-logo.svg
             crunchbase: https://www.crunchbase.com/organization/infosys
+          - item:
+            name: iFlytek (Adopter)
+            homepage_url: https://www.iflytek.com/
+            logo: iflytek.png
+            crunchbase: https://www.crunchbase.com/organization/anhui-ustc-iflytek-science-and-technology-co-ltd
           - item:
             name: Innovation Platform Agency Japan (Adopter)
             homepage_url: https://www.ipa.go.jp/en/
